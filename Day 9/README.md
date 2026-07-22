@@ -1,77 +1,134 @@
-Java Day 9 - Binary Search & LeetCode Practice
- Topics Covered:
- 
- Binary Search:
- 
-Introduction to Binary Search
-Time Complexity: O(log n)
-Difference between Linear Search and Binary Search
-Binary Search Implementation in Java
+# 📘 Java Day 9 – Binary Search & LeetCode Practice
 
-LeetCode Problems Solved:
-1. Search Insert Position
-Find the target element in a sorted array.
-Return its index or the position where it should be inserted.
-Concept: Binary Search
-2. Reverse Integer
-Reverse the digits of an integer.
-Handle integer overflow conditions.
-3. Find First and Last Position of Element in Sorted Array
-Find the starting and ending index of a target element.
-Concept: Binary Search
-4. Final Value of Variable After Performing Operations
-Simulate increment and decrement operations.
-Concept: Strings & Loops
-5. Contains Duplicate
-Check whether an array contains duplicate elements.
-Concept: HashSet
-6. Reverse String
-Reverse a character array in-place.
-Concept: Two Pointers
-7. Move Zeroes
-Move all zeroes to the end while maintaining the order of non-zero elements.
-Concept: Two Pointers
-8. Sort Array By Parity
-Place even numbers before odd numbers.
-Concept: Two Pointers
-9. Pascal's Triangle
-Generate Pascal's Triangle.
-Concept: Arrays & Nested Loops
-10. Merge Sorted Array
-Merge two sorted arrays into one sorted array.
-Concept: Two Pointers
-11. Minimum Cost to Move Chips to the Same Position
-Find the minimum cost to move all chips to one position.
-Concept: Counting Even and Odd Positions
-12. Distribute Candies to People
-Distribute candies in increasing order among people.
-Concept: Simulation
-13. Number of Pairs of Interchangeable Rectangles
-Count rectangle pairs with the same width-to-height ratio.
-Concept: HashMap
+> Building strong Data Structures & Algorithms fundamentals through Java and LeetCode.
 
- Concepts Learned:
-Binary Search
-Two Pointer Technique
-HashSet
-HashMap
-Arrays
-Nested Loops
-Simulation
-String Operations
-Mathematical Logic
+---
 
- Learning Outcome:
-Improved problem-solving skills using Java.
-Practiced Binary Search and array manipulation techniques.
-Learned efficient use of HashMap and HashSet.
-Solved easy-level LeetCode problems to strengthen DSA fundamentals.
+## 📅 Topics Covered
 
-Technologies Used:
-Java
-VS Code
-LeetCode
-GitHub
+### 🔍 Binary Search
+- Introduction to Binary Search
+- Time Complexity: **O(log n)**
+- Difference between **Linear Search** and **Binary Search**
+- Binary Search implementation in Java
 
- Keep Learning:
-Consistency beats perfection. Every problem solved is one step closer to becoming a better developer.
+---
+
+# 💻 LeetCode Problems Solved
+
+| # | Problem | Concept |
+|---|---------|---------|
+| 1 | Search Insert Position | Binary Search |
+| 2 | Reverse Integer | Mathematical Logic |
+| 3 | Find First and Last Position of Element in Sorted Array | Binary Search |
+| 4 | Final Value of Variable After Performing Operations | Strings & Loops |
+| 5 | Contains Duplicate | HashSet |
+| 6 | Reverse String | Two Pointers |
+| 7 | Move Zeroes | Two Pointers |
+| 8 | Sort Array By Parity | Two Pointers |
+| 9 | Pascal's Triangle | Arrays & Nested Loops |
+| 10 | Merge Sorted Array | Two Pointers |
+| 11 | Minimum Cost to Move Chips to the Same Position | Counting (Even/Odd) |
+| 12 | Distribute Candies to People | Simulation |
+| 13 | Number of Pairs of Interchangeable Rectangles | HashMap |
+
+---
+
+# 📚 Concepts Learned
+
+- 🔍 Binary Search
+- 👆 Two Pointer Technique
+- 📦 Arrays
+- 🔁 Nested Loops
+- 🔤 String Operations
+- 🗂️ HashSet
+- 🗺️ HashMap
+- ⚙️ Simulation
+- ➗ Mathematical Logic
+
+---
+
+# ⏱️ Time Complexity Highlights
+
+| Algorithm / Concept | Complexity |
+|---------------------|------------|
+| Binary Search | **O(log n)** |
+| Two Pointer Traversal | **O(n)** |
+| HashSet Lookup | **O(1)** (Average) |
+| HashMap Operations | **O(1)** (Average) |
+| Pascal's Triangle | **O(n²)** |
+
+---
+
+# 🎯 Learning Outcomes
+
+- Strengthened understanding of **Binary Search**.
+- Practiced solving array-based problems efficiently.
+- Learned how **HashSet** helps detect duplicates.
+- Used **HashMap** for frequency counting and grouping.
+- Applied the **Two Pointer** technique to optimize solutions.
+- Improved Java coding and logical thinking through LeetCode practice.
+
+---
+
+# 🛠️ Technologies Used
+
+- ☕ Java
+- 💻 VS Code
+- 🧩 LeetCode
+- 🌐 Git & GitHub
+
+---
+
+# 📂 Repository Structure
+
+```
+Java-Day-9/
+│
+├── SearchInsertPosition.java
+├── ReverseInteger.java
+├── FindFirstAndLastPosition.java
+├── FinalValueAfterOperations.java
+├── ContainsDuplicate.java
+├── ReverseString.java
+├── MoveZeroes.java
+├── SortArrayByParity.java
+├── PascalsTriangle.java
+├── MergeSortedArray.java
+├── MinimumCostToMoveChips.java
+├── DistributeCandies.java
+├── InterchangeableRectangles.java
+└── README.md
+```
+
+> *(Modify the filenames if your repository uses different names.)*
+
+---
+
+# 🚀 Key Takeaways
+
+- Binary Search reduces search time from **O(n)** to **O(log n)** on sorted arrays.
+- Two Pointer techniques simplify many array manipulation problems.
+- HashSet provides efficient duplicate detection.
+- HashMap enables fast counting and grouping operations.
+- Regular LeetCode practice builds confidence for coding interviews and competitive programming.
+
+---
+
+## 📈 Progress
+
+- ✅ 13 LeetCode Problems Solved
+- ✅ Binary Search Mastered
+- ✅ Arrays Practice
+- ✅ Two Pointer Problems
+- ✅ HashMap & HashSet Applications
+
+---
+
+## 🌟 Quote of the Day
+
+> **"Consistency beats perfection. Every problem solved is one step closer to becoming a better developer."**
+
+---
+
+### ⭐ If you found this repository helpful, don't forget to **Star** it!
