@@ -156,12 +156,12 @@ Practiced reversing a string using loops and character indexing.
 
 ---
 
-## 📈 Progress
+##  Progress
 
 Day 12 strengthened my understanding of **Java Object-Oriented Programming (OOP)**. Mastering classes, objects, constructors, and method overloading provides a solid foundation for advanced topics such as inheritance, polymorphism, abstraction, interfaces, and real-world Java application development.
 
 ---
 
-## ⭐ Conclusion
+##  Conclusion
 
 This session helped me build a strong understanding of Java's OOP fundamentals through practical coding exercises. These concepts form the backbone of Java programming and are essential for developing scalable applications, solving coding challenges, and preparing for technical interviews.
